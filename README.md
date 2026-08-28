@@ -7,15 +7,15 @@
 I'm a Computer Science undergraduate passionate about building  
 **modern web applications, scalable backend systems, and practical software solutions.**
 
-<p>
+<p align="center">
   <a href="https://harsh-kumar-jha.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-black?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/harsh-kumar-jha-1b976131b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hjha5316@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
