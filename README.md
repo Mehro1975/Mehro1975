@@ -11,7 +11,7 @@ I'm a Computer Science undergraduate passionate about building
   <a href="https://harsh-kumar-jha.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-black?style=for-the-badge" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/harsh-kumar-jha-1b976131b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hjha5316@gmail.com">
