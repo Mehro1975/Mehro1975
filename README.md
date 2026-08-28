@@ -1,42 +1,77 @@
-## Hi there 👋
-
 <div align="center">
 
-# 👋 Hi, I'm Harsh Kumar Jha
+# 👋 Hey, I'm Harsh Kumar Jha!
 
-### 💻 Full Stack Developer | Software Engineer
+### 💻 Full Stack Developer | Software Engineer | AWS Certified Developer
 
-B.Tech CSE (Hons.) — Full Stack Development
+I'm a Computer Science undergraduate passionate about building  
+**modern web applications, scalable backend systems, and practical software solutions.**
 
 <p>
   <a href="https://harsh-kumar-jha.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-black?style=for-the-badge">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-black?style=for-the-badge" />
   </a>
-
   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:hjha5316@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-📍 India &nbsp; • &nbsp; ⚡ Full Stack Development &nbsp; • &nbsp; ☁️ AWS
-
 </div>
 
-<!--
-**Mehro1975/Mehro1975** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a **B.Tech CSE (Hons.) student specializing in Full Stack Development** at UPES, 
+with experience working on real-world web applications and backend systems.
+
+I enjoy turning ideas into **clean, scalable, and user-focused applications** — 
+from responsive React frontends to REST APIs, databases, and cloud deployments.
+
+### 🛠️ I Work With
+
+**Frontend:** React.js • React Native • JavaScript • HTML • CSS • Tailwind CSS
+
+**Backend:** Node.js • Express.js • FastAPI • REST APIs
+
+**Database:** MongoDB • MySQL • Firebase
+
+**Cloud & Tools:** AWS • Git • GitHub • Postman • Swagger
+
+---
+
+## 🌱 Currently
+
+- 🔨 Building and improving full-stack applications
+- ☁️ Exploring AWS & cloud technologies
+- 🧩 Strengthening backend and system design skills
+- 🚀 Looking for opportunities to build, learn, and contribute
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+**Have an opportunity, project, or just want to talk tech?**
+
+<a href="https://harsh-kumar-jha.netlify.app/">
+Portfolio
+</a>
+&nbsp; • &nbsp;
+<a href="YOUR_LINKEDIN_URL">
+LinkedIn
+</a>
+&nbsp; • &nbsp;
+<a href="mailto:hjha5316@gmail.com">
+Email
+</a>
+
+<br><br>
+
+⭐ Thanks for stopping by!
+
+</div>
